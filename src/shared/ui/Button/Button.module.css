@@ -1,0 +1,42 @@
+.ButtonBlue {
+    background-color: #012452; 
+    color: #ffffff; 
+    
+  }
+  
+  .ButtonWhite {
+    background-color: #ffffff; 
+    color: #012452; 
+    border:1px solid;
+  }
+  .ButtonWhite:hover {
+    background-color: #BFE063;
+    color: #012452;
+    border:none;
+  }
+  
+  .ButtonSinFondo {
+    background-color: #ffffff;
+    color: #012452;
+    border:1px solid; 
+  }
+  .ButtonSinFondo:hover {
+    background-color: #FF914D;
+    color: #012452;
+    border:none;
+  }
+
+  .ButtonGreen {
+    background-color: #BFE063;
+    color: #012452; 
+    size: 16px;
+    font-weight: 400;
+    line-height: 19.36px;
+    align-items: center;
+    border: none;
+  }
+  .ButtonGreen:hover {
+    background-color: #FF914D;
+    color: #012452;
+    font-weight: 700;
+  }
